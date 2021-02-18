@@ -1,4 +1,4 @@
-# vue_mapas
+# vue_mapas leaflet
 
 ## Project setup
 ```
